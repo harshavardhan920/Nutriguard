@@ -1,0 +1,13 @@
+Flask
+Flask-SQLAlchemy
+Flask-Login
+Flask-Bcrypt
+Flask-WTF
+Flask-Limiter
+google-generativeai
+Pillow
+pytesseract
+opencv-python
+python-dotenv
+email-validator
+pip-system-certs

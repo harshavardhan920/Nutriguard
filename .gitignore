@@ -1,0 +1,27 @@
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment variables
+.env
+.env.*
+
+# Databases
+*.db
+*.sqlite3
+instance/
+
+# Dataset files
+en.openfoodfacts.org.products.tsv
+*.tsv
+
+# User uploads / OS files
+.DS_Store
+Thumbs.db
